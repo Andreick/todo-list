@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="action_delete_all">Delete All</string>
+
+    <string name="label_complete">Complete</string>
+    <string name="label_title">Title</string>
+    <string name="label_date">Date</string>
+    <string name="label_hour">Hour</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_add_task">Add Task</string>
+    <string name="content_description_fab_add_todo">Add to-do</string>
+
+    <string name="hour_format">%1$02d:%2$02d</string>
+    <string name="date_hour_format">%1$s %2$s</string>
+    <string name="shared_pref_name">com.andreick.todolist.sharedprefs</string>
+    <string name="todo_strings">todoStrings</string>
+    <string name="label_tasks">Tasks</string>
+    <string name="label_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="label_you_don_t_have_tasks">Oops! You don\'t have\nany tasks</string>
+</resources>
